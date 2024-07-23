@@ -34,7 +34,8 @@
 
 ###
 
-<h6 align="left">>.[!WARNING]<br>>Esta no es la Pagina Oficial. La Pagina Oficial es https://medipac.mx/</h6>
+>.[!WARNING]
+>Esta no es la Pagina Oficial. La Pagina Oficial es https://medipac.mx/</h6>
 
 ###
 
