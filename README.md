@@ -9,11 +9,6 @@
 <br clear="both">
 
 <h1 align="center">MediPac</h1>
-
-###
-
-<br clear="both">
-
 <h3 align="center">Tu proveedor de productos medicos</h3>
 
 ###
@@ -34,19 +29,13 @@
 
 ###
 
->.[!WARNING]
->Esta no es la Pagina Oficial. La Pagina Oficial es https://medipac.mx/</h6>
+>[!WARNING]
+>Esta no es la Pagina Oficial. La Pagina Oficial es [**MediPac**](https://medipac.mx/).
 
-###
+### 🛠️ Herramientas
 
-<h2 align="left">🛠Herramientas</h2>
-
-###
-
-<p align="left">Astro : el marco web para sitios web basados ​​en contenido.<br>Typescript - JavaScript con sintaxis para tipos.<br>Tailwindcss : un marco CSS que prioriza la utilidad para crear rápidamente diseños personalizados.<br>tailwindcss-animated - Utilidades de animación extendidas para Tailwind CSS.<br>fontsource - Fuentes de código abierto autohospedadas en paquetes NPM cuidadosamente agrupados.</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Deredaya/Deredaya/output/snake.svg" alt="Snake animation" />
-
-###
+- [**Astro**](https://astro.build/) - The web framework for content-driven websites.
+- [**Typescript**](https://www.typescriptlang.org/) - JavaScript with syntax for types.
+- [**Tailwindcss**](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
+- [**tailwindcss-animated**](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS.
+- [**fontsource**](https://fontsource.org/) - Self-host Open Source fonts in neatly bundled NPM packages.
