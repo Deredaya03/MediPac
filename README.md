@@ -1,14 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="80" src="/medipac_logo.png" />
+  <img height="80" src="https://github.com/Deredaya03/MediPac/blob/master/public/medipac_logo.png" />
 </div>
 
 ###
 
-<br clear="both">
-
-<h1 align="center">MediPac</h1>
+<h1 align="center"><strong>MediPac</strong></h1>
 <h3 align="center">Tu proveedor de productos medicos</h3>
 
 ###
